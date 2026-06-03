@@ -2,6 +2,9 @@
 
 A performance-tuned NixOS configuration designed for AMD Ryzen + NVIDIA RTX laptops with integrated graphics (hybrid GPU systems).
 
+<img width="1920" height="1080" alt="Screenshot_20260603_220509" src="https://github.com/user-attachments/assets/8275ef7f-4783-4d89-b4d7-827cd8b7b1f1" />
+
+
 This configuration focuses on:
 
 * High performance under load
