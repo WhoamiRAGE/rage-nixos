@@ -60,12 +60,6 @@ The goal is to provide a complete workstation environment immediately after inst
 
 ---
 
-
-<img width="1920" height="1080" alt="Screenshot_20260603_221431" src="https://github.com/user-attachments/assets/94fa88b4-5d9d-4136-9dc1-7ec9c2427490" />
-
-
-
-
 ## Included Networking Tools
 
 | Application | Purpose                        |
