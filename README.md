@@ -2,7 +2,7 @@
 
 A performance-tuned NixOS configuration designed for AMD Ryzen + NVIDIA RTX laptops with integrated graphics (hybrid GPU systems).
 
-<img width="1920" height="1080" alt="Screenshot_20260603_220509" src="https://github.com/user-attachments/assets/8275ef7f-4783-4d89-b4d7-827cd8b7b1f1" />
+<img width="1920" height="1080" alt="Screenshot_20260603_220807" src="https://github.com/user-attachments/assets/275312c5-ff4e-4adc-9389-7c6d4f9b051f" />
 
 
 This configuration focuses on:
@@ -59,6 +59,12 @@ The goal is to provide a complete workstation environment immediately after inst
 | Python      | Automation, scripting and development           |
 
 ---
+
+
+<img width="1920" height="1080" alt="Screenshot_20260603_221431" src="https://github.com/user-attachments/assets/94fa88b4-5d9d-4136-9dc1-7ec9c2427490" />
+
+
+
 
 ## Included Networking Tools
 
